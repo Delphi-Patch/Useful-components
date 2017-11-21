@@ -10,7 +10,7 @@
   - [OrangeUI](http://orangeui.cn/) 商业
   - [FMXUI](https://github.com/yangyxd/FMXUI)
   - [DDuilib](https://github.com/ying32/duilib-for-Delphi)
-  - 滚动显示, NativeCanvas, Callout, graphics32 for Firemonkey, LoadingIndicator, ImageSlider, GuesturePassword, CalendarControl等  [FMXComponents](https://github.com/zhaoyipeng/FMXComponents)
+  - 滚动显示, NativeCanvas, Callout, graphics32 for Firemonkey, LoadingIndicator, ImageSlider, GuesturePassword, CalendarControl等  [FMXComponents](https://github.com/zhaoyipeng/FMXComponents)
   - 虚拟键盘修正 [QDAC](https://github.com/qdac/QDAC3)
 
 ## 网络
