@@ -1,10 +1,10 @@
 # delphi常用三方列表
 
 ## 多线程
-1. QWorks [QDAC](https://github.com/qdac/QDAC3)
+  - QWorks [QDAC](https://github.com/qdac/QDAC3)
 
 ## 数据结构
-1. QJson [QDAC](https://github.com/qdac/QDAC3)
+  - QJson [QDAC](https://github.com/qdac/QDAC3)
 
 ## UI
 1. [OrangeUI](http://orangeui.cn/) 商业
