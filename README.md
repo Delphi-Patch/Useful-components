@@ -26,7 +26,7 @@
   
 ## Win32
   - hook lib [Delphi Detours Library](https://github.com/MahdiSafsafi/delphi-detours-library)
-  - [DelphiHookUtils](https://github.com/delphilite/DelphiHookUtils)
+  - [DelphiHookUtils](https://github.com/delphilite/DelphiHookUtils)
 
 ## 反编译
   - [IDR](https://github.com/crypto2011/IDR)
