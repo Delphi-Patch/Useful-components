@@ -19,5 +19,8 @@
 
 ## 文字
 
-## 系统
+## Win32
 1. hook lib [Delphi Detours Library](https://github.com/MahdiSafsafi/delphi-detours-library)
+
+## 反编译
+1. [IDR](https://github.com/crypto2011/IDR)
