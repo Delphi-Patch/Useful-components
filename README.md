@@ -33,3 +33,5 @@
 ## 反编译
   - [IDR](https://github.com/crypto2011/IDR)
 
+## Android
+  - 动态申请权限 [CustomActivityAndListener](https://github.com/AndrewEfimov/CustomActivityAndListener)
